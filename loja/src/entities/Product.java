@@ -1,4 +1,4 @@
-package application.entities;
+package entities;
 
 public class Product {
     private String name;
